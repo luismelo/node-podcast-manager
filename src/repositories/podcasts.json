@@ -1,0 +1,22 @@
+[
+    {
+        "name": "flow",
+        "episode": "1 - Introdução ao Node.js",
+        "videoId": "1",
+        "categories": [
+            "Node.js",
+            "JavaScript",
+            "Backend"
+        ]
+    },
+    {
+        "name": "flow_2",
+        "episode": "2 - Continuacao do Node.js",
+        "videoId": "2",
+        "categories": [
+            "Node.js",
+            "JavaScript",
+            "Frontend"
+        ]
+    }
+]
